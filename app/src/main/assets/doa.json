@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "doa untuk kedua orang tua",
+    "arabic": "اَللّهُمَّ اغْفِرْلِيْ وَلِوَالِدَيَّ وَارْحَمْهُمَاكَمَارَبَّيَانِيْ صَغِيْرَا",
+    "latin": "Allohummaghfirlii waliwaalidayya war hamhumma kama rabbayaanii shagiiraa",
+    "terjemahan": "Wahai Tuhanku, ampunilah aku dan kedua orang tuaku (Ibu dan Bapakku), sayangilah mereka seperti mereka menyayangiku di waktu kecil"
+  },
+  {
+    "id": 2,
+    "name": "doa sebelum belajar",
+    "arabic": "رَضِتُ بِااللهِ رَبَا وَبِالْاِسْلاَمِ دِيْنَا وَبِمُحَمَّدٍ نَبِيَا وَرَسُوْلاَ رَبِّ زِدْ نِيْ عِلْمًـاوَرْزُقْنِـيْ فَهْمًـا",
+    "latin": "Rodlittu billahiroba, Wabil islaamidiinaa, Wabimuhammadin nabiyyaa warasuula, Robbi zidnii ilmaan warzuqnii fahmaan.",
+    "terjemahan": "Kami ridho Allah Swt sebagai Tuhanku, Islam sebagai agamaku, dan Nabi Muhammad sebagai Nabi dan Rasul, Ya Allah, tambahkanlah kepadaku ilmu dan berikanlah aku pengertian yang baik."
+  },
+  {
+    "id": 3,
+    "name": "doa sebelum tidur",
+    "arabic": "بِسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ وَبِكَ أَرْفَعُهُ إِنْ أَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ",
+    "latin": "Bismika rabbî wadla'tu janbî wa bika arfa'uhu. In amsakta nafsî farhamhâ. Wa in arsaltahâ fahfazhhâ bimâ tahfazhu bihî 'ibâdakas shâlihin.",
+    "terjemahan": "Dengan nama-Mu hai Tuhanku, aku berbaring. Dengan nama-Mu juga aku terbangun. Jika Kau tahan nyawaku, berilah rahmat untuknya. Jika Kau lepaskan nyawaku, peliharalah sebagaimana Kau memelihara para hamba-Mu yang saleh."
+  },
+  {
+    "id": 4,
+    "name": "doa sebelum naik kendaraan",
+    "arabic": "سُبْحَانَ الَّذِىْ سَخَّرَلَنَا هَذَا وَمَاكُنَّالَهُ مُقْرِنِيْنَ وَاِنَّآ اِلَى رَبِّنَا لَمُنْقَلِبُوْنَ",
+    "latin": "Subhaanalladzii sakkhara lanaa hadza wama kunna lahu muqriniin wa-inna ilaa rabbina lamunqalibuun.",
+    "terjemahan": "Maha suci Allah yang telah menundukkan untuk kami (kendaraan) ini. padahal sebelumnya kami tidak mampu untuk menguasainya, dan hanya kepada-Mu lah kami akan kembali. "
+  },
+  {
+    "id": 5,
+    "name": "doa berwudhu",
+    "arabic": "نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ اْلاَصْغَرِ فَرْضًا ِللهِ تَعَالَى",
+    "latin": "Nawaitul wudhuu-a liraf'll hadatsil ashghari fardhal lilaahi ta'aalaa",
+    "terjemahan": "Saya niat berwudhu untuk menghilangkan hadast kecil fardu karena Allah"
+  },
+  {
+    "id": 6,
+    "name": "doa sesudah wudhu",
+    "arabic": "أَشْهَدُ أَنْ لآّاِلَهَ إِلاَّاللهُ وَحْدَهُ لاَشَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًاعَبْدُهُ وَرَسُوْلُهُ. اللّهُمَّ اجْعَلْنِىْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِىْ مِنَ الْمُتَطَهِّرِيْنَ",
+    "latin": " Asyhadu allâ ilâha illallâhu wahdahû lâ syarîka lahu wa asyhadu anna muhammadan 'abduhû wa rasûluhû, allâhummaj'alnî minat tawwâbîna waj'alnii minal mutathahhirîna.",
+    "terjemahan": "Aku bersaksi bahwa tidak ada Tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya, dan aku bersaksi bahwa Nabi Muhammad adalah hamba dan utusan Allah. Ya Allah, jadikanlah aku termasuk dalam golongan orang-orang yang bertobat dan jadikanlah aku termasuk dalam golongan orang-orang yang bersuci (shalih)."
+  },
+  {
+    "id": 7,
+    "name": "doa sebelum makan",
+    "arabic": "اللَّهُمَّ بَارِكْ لَناَ فِيْمَا رَزَقْتَنا وَقِنَا عَذَابَ النَّارِ، بِسْمِ اللهِ",
+    "latin": "Allâhumma bârik lanâ fî mâ razaqtanâ wa qinâ adzâban nâr, bismillâh",
+    "terjemahan": "Ya Allah, berkahilah kami pada apa yang telah Engkau karuniakan dan lindungilah kami dari siksa neraka. Bismillâh (atas nama Allah)"
+  },
+  {
+    "id": 8,
+    "name": "doa masuk kamar mandi",
+    "arabic": "بِسْمِ اللهِ اللَّهُمَّ إنِّي أَعُوذُ بِك من الْخُبْثِ وَالْخَبَائِثَِ",
+    "latin": "Bismillâhi Allâhumma innî a'ûdzu bika minal khubutsi wal khabâitsi",
+    "terjemahan": "Ya Allah, aku berlindung pada-Mu dari godaan iblis jantan dan betina."
+  }
+]
